@@ -1,5 +1,5 @@
 
-
+# Asks user to enter date while program outputs whether that day is a holiday or a regular working day.
 month = int(input("Enter an month as an integer from 1-12: ")) # input month
 if (month>12) or (0>=month): # only 12 months
     print ("Invalid input. Months are numbered from 1 to 12")
