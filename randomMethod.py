@@ -1,5 +1,15 @@
 
+'''
+First section of code asks user to guess number that was randomly chosen. If the guess is incorrect, program outputs how many trials are left.
 
+Second section of code asks user to guess randomly chosen color. Program again outputs how many trials are left if guess is incorrect.
+
+Third section asks user to input series of expenses (or -1 to exit the loop). Output is the total and average amount.
+
+Fourth section converts inputted binary number to decimal form
+
+Last section asks user to input a word, and the program converts prints the ascii value, as well as the ascii value of the preceeding letter - ie. if the letter of the word is "a", it will print 97 as well as 98 for the letter "b." "
+'''
 # Part one:
 chances = 3
 print ("The secret number is in between 1 and 20, inclusive")
