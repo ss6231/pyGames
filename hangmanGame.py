@@ -1,5 +1,5 @@
 
-
+# This is a hangman game that uses an external words.txt file that is imported via the readlines() method
 def mult(number):
     while (number<2) or (number>10):
         print("Invalid input")
