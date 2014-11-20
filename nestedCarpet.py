@@ -1,4 +1,10 @@
+'''
+First part of this program prints out formatted multiplication tables
 
+Second part has another random number guessing game and prints out the number of trials left if the guess is incorrect
+
+Last part prints out a printed "carpet" using nested loops and various characters
+'''
 
 # Part 1
 
